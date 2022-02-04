@@ -13,3 +13,4 @@ PS C:\Users\wollu\OneDrive\Desktop> python .\cli_weather.py Berlin "New York" Pe
 │ New York/US  │ overcast clouds │ 11°  │      94% │
 │ Beijing/CN   │ clear sky       │ -2°  │      22% │
 └──────────────┴─────────────────┴──────┴──────────┘
+ 
